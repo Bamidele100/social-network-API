@@ -5,7 +5,6 @@ const thoughtController = {
 
 getAllThoughts(req, res) {
     Thought.find().then((thought) => res.json(thought)).catch((err) => res.status(500).json(err));
-
 },
 
 createThought(req, res) {
@@ -17,7 +16,6 @@ createThought(req, res) {
            {new:true}
 
        )
-    
    })
    .then(userData => res.json(userData))
    .catch((err) => res.status(500).json(err));
@@ -34,8 +32,6 @@ updateThought(req, res) {
         !thought ? res.status(404).json({message: 'No thought by ID'}) : res.json(thought);
 
     }).catch((err) => res.status(500).json(err));
-
-
 },
 
 getThoughtById({ params }, res) {
