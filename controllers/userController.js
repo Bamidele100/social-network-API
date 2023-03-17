@@ -30,7 +30,7 @@ const userController = {
             _id: {
                 $in: user.thoughts
             }
-        })).then(() => res.json({ message: 'User and associated apps deleted!' })).catch((err) => res.status(500).json(err));
+        })).then(() => res.json({ message: 'User deleted!' })).catch((err) => res.status(500).json(err));
     },
    
     getUserById(req, res) {
