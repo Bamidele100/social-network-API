@@ -29,3 +29,5 @@ https://github.com/Bamidele100/social-network-API.git
 
 
 ## walkthrough video
+
+https://drive.google.com/file/d/1Kf0HqLIszeqTIzT1VPfwR7T8OSZ-gDUa/view
