@@ -1,5 +1,5 @@
 
-# NoSQL: SOcial Network API
+# NoSQL: Social Network API
 
 The goal of the assignment is to build an API for a social network web application where users will share their thoughts, react to friends' thoughts and to create list of friends. The application makes used of Node js, Express.js for routing, MongoDB for database, Mongoose ODM and nodemon for automatic server restart if any changes are in the code. 
 
