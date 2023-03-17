@@ -7,10 +7,13 @@ The server is started in node js and Mongoose models are synced to the MongoDB d
 
  ## Installed Packages
 
-Express.js  https://www.npmjs.com/package/express
-Mongoose https://www.npmjs.com/package/mongoose 
-Nodemon https://www.npmjs.com/package/nodemon
-Insomnia https://insomnia.rest/
+Express.js -  https://www.npmjs.com/package/express
+
+Mongoose - https://www.npmjs.com/package/mongoose 
+
+Nodemon - https://www.npmjs.com/package/nodemon
+
+Insomnia - https://insomnia.rest/
 
 
 ## Generated images
