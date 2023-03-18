@@ -30,4 +30,6 @@ https://github.com/Bamidele100/social-network-API.git
 
 ## walkthrough video
 
+https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221Kf0HqLIszeqTIzT1VPfwR7T8OSZ-gDUa%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D
+
 https://drive.google.com/file/d/1Kf0HqLIszeqTIzT1VPfwR7T8OSZ-gDUa/view
